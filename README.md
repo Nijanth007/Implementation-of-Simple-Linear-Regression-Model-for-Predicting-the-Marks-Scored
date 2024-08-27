@@ -69,8 +69,6 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
 ### Dataset
 ![output](./images/dataset.png)
 ### Head Values
@@ -87,6 +85,5 @@ print("RMSE= ",rmse)
 ![output](./images/train.png)
 ### Testing Set
 ![output](./images/test.png)
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
