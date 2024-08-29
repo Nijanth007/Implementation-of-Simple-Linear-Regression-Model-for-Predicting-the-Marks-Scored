@@ -50,6 +50,9 @@ m=lr.coef_
 m[0]
 b=lr.intercept_
 b
+
+/*
+
 ```
 
 ## Output:
@@ -68,7 +71,6 @@ b
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/9d5fbbb4-70e3-4a8a-bffb-6b37bff77cbc)
 
 ![image](https://github.com/harini1006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497405/a21e6f27-be9e-4879-9afa-b52b0290271c)
-/*
-```
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
