@@ -21,6 +21,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: HARISH S
 RegisterNumber:  212223230071
+*/
 
 import pandas as pd
 import numpy as np
@@ -51,7 +52,6 @@ m[0]
 b=lr.intercept_
 b
 
-/*
 
 ```
 
